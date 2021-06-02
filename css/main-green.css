@@ -902,12 +902,12 @@ body > footer .copyrights {
 
 .start-page-content .social-links a {
   display: inline-block;
-  width: 32px;
-  height: 32px;
+  width: 36px;
+  height: 36px;
   border-radius: 24px;
   background-color: #fff;
   margin: 0 1px;
-  color: #fff;
+  color: #4BA5BE;
   text-align: center;
   -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
   -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
